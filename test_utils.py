@@ -2,7 +2,7 @@ import pytest
 import utils
 
 
-@pytest.mark.parametrize("a, b, expected ", [(10, 11, 21), (2, 3,
+@pytest.mark.parametrize("a, b, expected ", [(11, 11, 22), (2, 3,
                                                          5), (3, 4, 7), (4, 5, 9)])
 def test_add(a, b, expected):
     result = utils . add(a, b)
