@@ -1,2 +1,3 @@
 # CI_CD_repo
-CI/CD-repo
+Praktyka ciągłej integracji i ciągłego do
+starczania
